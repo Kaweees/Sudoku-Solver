@@ -13,4 +13,9 @@ board = [
     ] 
 
 display(board)
-#print(len(board))
+
+if solve(board):
+    print("solved board:")
+    display(board)
+else:
+    print("task failed sucessfully")
