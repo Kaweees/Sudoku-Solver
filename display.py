@@ -17,3 +17,4 @@ def display(board):
   
   for i in range(len(grid)):
     print(grid[i])
+  print("")
