@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Python script that uses recursive backtracking algorithms to solve a sudoku puzzle (if solvable), which is represented by a 9-by-9 2-dimesional array containing intergers from 1-9, with 0s representing empty spots.
+A script written in Python that solves any given Sudoku board represented by a nine by nine 2-dimensional array with the integers 0-9 representing the numbers on a Sudoku board or the absence of a number (0), if there is a solution to it. Uses the Recursive Backtracking search algorithm, in a way similar to Brute Force.
 ## Installation Instructions
 You can download or modify the program by Cloning or Downloading the project or by saving it as a ".zip" file.
 Once the downloaded file is extracted into a separate folder, follow these instructions:
