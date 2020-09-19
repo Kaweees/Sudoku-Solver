@@ -11,7 +11,6 @@ board = [
     [1,2,0,0,0,7,4,0,0],
     [0,4,9,2,0,6,0,0,7]
     ] # 2-d array that represents the sudoku board
-
 display(board)
 
 if solve(board): # if the board is solvable 
