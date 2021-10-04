@@ -14,12 +14,24 @@ A script written in Python that solves any given Sudoku board represented by a n
  - Python 3
  - Backtracking Algorithm
 
-## Installation Instructions
-You can download or modify the program by Cloning or Downloading the project or by saving it as a ".zip" file.
-Once the downloaded file is extracted into a separate folder, follow these instructions:
+# How to Use BWSI-Python-2021
 
-### Python Setup
-1. Install Python 3.x or latest version.
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Working python >= 3.6 installation
+   - Pip is added to `PATH`
+
+### Installation
+
+1. Clone the repo
+    ```sh
+    git clone https:://github.com/Kaweees/BWSI-Python-2021.git
+    ```
 
 ## Running
 ### Before running
