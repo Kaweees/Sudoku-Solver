@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
     ```sh
-    git clone https:://github.com/Kaweees/BWSI-Python-2021.git
+    git clone https:://github.com/Kaweees/Sudoku-Solver.git
     ```
 
 ## Running
