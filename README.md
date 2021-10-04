@@ -14,7 +14,7 @@ A script written in Python that solves any given Sudoku board represented by a n
  - Python 3
  - Backtracking Algorithm
 
-# How to Use BWSI-Python-2021
+# How to Use Sudoku-Solver
 
 <!-- GETTING STARTED -->
 ## Getting Started
