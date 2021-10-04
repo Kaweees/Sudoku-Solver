@@ -4,6 +4,9 @@
 
 # Sudoku-Solver
 A script written in Python that solves any given Sudoku board represented by a nine by nine 2-dimensional array with the integers 0-9 representing the numbers on a Sudoku board or the absence of a number (0), if there is a solution to it. Uses the Recursive Backtracking search algorithm, in a way similar to Brute Force.
+
+[<img src="assets/img/python-logo.png" align="right" width="150">](https://github.com/Kaweees/Sudoku-Solver)
+
 ## Installation Instructions
 You can download or modify the program by Cloning or Downloading the project or by saving it as a ".zip" file.
 Once the downloaded file is extracted into a separate folder, follow these instructions:
